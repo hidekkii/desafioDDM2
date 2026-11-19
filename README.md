@@ -3,9 +3,9 @@
 App Android (Kotlin + XML) com Retrofit (Fake Store API), Firebase Authentication e Cloud Firestore.
 
 ## Integrantes
-- Nome completo 1
-- Nome completo 2
-- Nome completo 3
+- Renan Hideki  
+- Osvaldo Vasconcellos
+- Enzo Alonso
 
 ## Como rodar
 1. Clone o repositório e abra no Android Studio.
